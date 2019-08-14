@@ -1,0 +1,1 @@
+A Rust implementation of [ROBERT](https://robertheaton.com/2019/03/17/robert-prove-that-your-randomized-trial-really-was-random/), based on [Robert Heaton's python implementation](https://github.com/robert/robert-for-rcts). 
