@@ -1,0 +1,9 @@
+[package]
+name = "robert-rct"
+version = "0.1.0"
+authors = ["DennisMelamed <hal.melt1@gmail.com>"]
+edition = "2018"
+
+[dependencies]
+mersenne_twister = "1.1.1"
+rand = "0.4.0"
