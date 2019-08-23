@@ -1,1 +1,2 @@
 A Rust implementation of [ROBERT](https://robertheaton.com/2019/03/17/robert-prove-that-your-randomized-trial-really-was-random/), based on [Robert Heaton's python implementation](https://github.com/robert/robert-for-rcts). 
+- Provides slightly different output, I think due to the mersenne twister implementation I'm using. The seed isn't being used as I expect, and with classes starting I don't have time to figure out why.
